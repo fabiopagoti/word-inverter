@@ -1,0 +1,23 @@
+{
+  "name": "word-inverter",
+  "version": "1.0.0",
+  "description": "Word inverter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiopagoti/word-inverter.git"
+  },
+  "keywords": [
+    "string",
+    "inverter"
+  ],
+  "author": "Fabio Pagoti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiopagoti/word-inverter/issues"
+  },
+  "homepage": "https://github.com/fabiopagoti/word-inverter#readme"
+}
