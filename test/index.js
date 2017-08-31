@@ -25,4 +25,8 @@ describe('Word inverter', function(){
 		assert.equal(inverter('0123456789'), '9876543210')
 	})
 
+	it('should invert Amanda as adnamA', function(){
+		assert.equal(inverter('Amanda'), 'adnamA')
+	})
+
 })
